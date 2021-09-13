@@ -1,11 +1,21 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on API intergration with front-end frameworks
-- 🌱 I’m currently learning react.js and strapi API and any other frameworks
-- 👯 I’m looking to collaborate on front-end web development
-- 🤔 I’m looking for help with backend intergration with different languages
-- 💬 Ask me about anything tech related
-- 📫 How to reach me: hit up my email johnkaburu82@gmail.com
-- 😄 Pronouns: 😄😄😄
-- ⚡ Fun fact: You searched for this page.
-
+      _________________________________________ 
+     / Hi, I am john kaburu. A computer science\
+     | student currently working as a junior   |
+     | developer at Skyetech group.            |
+     | I am well versed in front-end react dev |
+     | and backend strapi. I have some basic   |
+     | Django knowledge.I am interested in all |
+     | things tech / space no matter the topic |
+     | (unless complex math is involved then..)|
+     | I use arch by the way. And no I am not a|
+     \ hacker...yet😉                          /
+      ----------------------------------------- 
+        \
+         \
+             .--.
+            |o_o |
+            |:_/ |
+           //   \ \
+          (|     | )
+         /'\_   _/`\
+         \___)=(___/
