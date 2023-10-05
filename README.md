@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media1.giphy.com/media/bcKmIWkUMCjVm/giphy.gif?cid=ecf05e47vlw2na3hp1yotkox1mc41xoe5yubfxszy9yhpdb2&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300"/>
 </div>
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
@@ -7,14 +7,6 @@
   </a>
       
 ![](https://komarev.com/ghpvc/?username=blackninja81)
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
-</h1>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
@@ -29,7 +21,10 @@
 - :zap: I use Arch by the way.
 - :computer: And no, I'm not a hacker...yet! 😉
 
----
+</div>
+<div align="center">
+  <img src="https://media0.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif?cid=ecf05e47m2haam1ue78adoak4t0km7c328ix3p7ev7wcoyo1&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="600" height="300"/>
+</div>
 
 ### :hammer_and_wrench: My Tools Of Trade :
 <div align="center">
