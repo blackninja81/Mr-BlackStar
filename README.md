@@ -14,17 +14,13 @@
 
 ### :man_technologist: About Me:
 - :v: Hi, I'm John Kaburu.
-- :telescope: Currently, I'm working as a web developer at Skyetech Group.
-- :arrow_upper_right: I have over 3 years expirinece in front-end development specializing in React.
+- :arrow_upper_right: I have expirinece in front-end development specializing in React.
 - :snake: I also have some basic knowledge of Django.
 - :seedling: I'm passionate about technology and space, and I'm interested in these topics regardless of complexity (unless there's complex math involved, then it gets a bit tricky!).
 - :zap: I use Arch by the way.
 - :computer: And no, I'm not a hacker...yet! 😉
 
-</div>
-<div align="center">
-  <img src="https://media0.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif?cid=ecf05e47m2haam1ue78adoak4t0km7c328ix3p7ev7wcoyo1&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="600" height="300"/>
-</div>
+---
 
 ### :hammer_and_wrench: My Tools Of Trade :
 <div align="center">
