@@ -2,9 +2,6 @@
   <img src="https://media1.giphy.com/media/bcKmIWkUMCjVm/giphy.gif?cid=ecf05e47vlw2na3hp1yotkox1mc41xoe5yubfxszy9yhpdb2&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
       
 ![](https://komarev.com/ghpvc/?username=blackninja81)
 </div>
